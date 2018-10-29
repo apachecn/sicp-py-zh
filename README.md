@@ -17,7 +17,7 @@
 + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/sicp-py)
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/sicp-py)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/sicp-py)
-+ [Github](https://github.com/wizardforcel/sicp-py-zh)
++ [Github](https://github.com/apachecn/sicp-py-zh)
 
 ## 赞助我
 
