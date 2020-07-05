@@ -8,12 +8,12 @@
 > 
 > 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
 
-+   [ApacheCN LeetCode 刷题群 812791932](http://qm.qq.com/cgi-bin/qm/qr?k=O4wL2pA1LJEArhZ02mI-_YLn4gQFaQjK)
++   [ApacheCN 面试求职交流群 724187166](https://jq.qq.com/?_wv=1027&k=54ujcL3)
 +   [ApacheCN 学习资源](http://www.apachecn.org/)
 
 &zwj;
 
-+ [在线阅读](https://www.gitbook.com/book/wizardforcel/sicp-py/details)
++ [在线阅读](https://sicp-py.apachecn.org)
 + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/sicp-py)
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/sicp-py)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/sicp-py)
