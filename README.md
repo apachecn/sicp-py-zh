@@ -19,6 +19,16 @@
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/sicp-py)
 + [Github](https://github.com/apachecn/sicp-py-zh)
 
+## 下载
+
+### NPM
+
+```
+npm install -g sicp-py-zh
+sicp-py-zh <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
 ## 赞助我
 
 ![](img/qr_alipay.png)
