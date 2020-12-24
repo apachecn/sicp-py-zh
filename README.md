@@ -14,6 +14,7 @@
 &zwj;
 
 + [在线阅读](https://sicp-py.apachecn.org)
++ [在线阅读（Gitee）](https://apachecn.gitee.io/sicp-py-zh/)
 + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/sicp-py)
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/sicp-py)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/sicp-py)
