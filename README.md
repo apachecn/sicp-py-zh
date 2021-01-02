@@ -6,7 +6,7 @@
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
-> 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
+> 前面是山，我们就爬山；前面是海，我们就渡海；前面是皇宫，我们就开炮！——《龙族前传》
 
 +   [ApacheCN 面试求职交流群 724187166](https://jq.qq.com/?_wv=1027&k=54ujcL3)
 +   [ApacheCN 学习资源](http://www.apachecn.org/)
